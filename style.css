@@ -42,7 +42,7 @@ nav a:hover {
             rgba(59, 31, 31, 0.55),
             rgba(59, 31, 31, 0.55)
         ),
-        url("images/food-gallery.png");
+        url("food-gallery.png");
 
     background-size: cover;
     background-position: center;
