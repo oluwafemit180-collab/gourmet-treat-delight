@@ -43,11 +43,8 @@ nav a:hover {
             rgba(59, 31, 31, 0.55)
         ),
         url("food-gallery.png");
-
-    background-size: cover;
+     background-size: cover;
     background-position: center;
-}
-
 .hero h1 {
     font-size: 50px;
     color: white;
